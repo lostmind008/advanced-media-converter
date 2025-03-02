@@ -1,0 +1,18 @@
+# Core dependencies
+numpy>=1.21.0
+librosa>=0.9.0
+soundfile>=0.10.3
+pydub>=0.25.1
+matplotlib>=3.4.3
+
+# Audio processing
+audioread>=2.1.9
+sounddevice>=0.4.4
+resampy>=0.2.2
+
+# Scientific computing
+scipy>=1.7.0
+
+# Optional but recommended
+ffmpeg-python>=0.2.0  # Python bindings for FFmpeg
+tqdm>=4.62.0  # For progress bars in batch operations
